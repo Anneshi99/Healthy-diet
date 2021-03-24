@@ -7,6 +7,9 @@ h2 {
 body {
   background: #95c8d8;
 }
+h1 {
+  color: #FDAED2;
+}
 
 .content {
   max-width: 400px;
