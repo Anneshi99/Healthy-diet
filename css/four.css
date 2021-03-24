@@ -1,0 +1,46 @@
+h1 {
+  font-family: serif;
+}
+h2 {
+  font-family: serif;
+}
+body {
+  background: #acd783;
+}
+h1 {
+  color: #95c8d8;
+}
+
+.box {
+  background-color: white;
+  width: 400px;
+  height: 220px;
+  border: 2px solid #ab71c7;
+  padding: 10px;
+  margin: 10px;
+
+}
+
+
+
+
+
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
