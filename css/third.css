@@ -22,7 +22,7 @@ body {
 .box {
   background-color: white;
   width: 130px;
-  height: 180px;
+  height: 150px;
   border: 2px solid #ab71c7;
   padding: 10px;
   margin: 10px;
@@ -37,12 +37,4 @@ h2 {
 h1 {
   color: #9047b3;
 }
-#key-takeaways::before{
-  display: block;
-  content: "box";
-  width: 50%;
-  padding-top:2em;
-  border-top: 0.1em solid #f00;
-  border-left: 0.1em solid #f00;
-  
-}
+
