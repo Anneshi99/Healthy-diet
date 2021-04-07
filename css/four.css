@@ -44,3 +44,42 @@ div {text-align: center;}
 </style>
 </head>
 <body>
+
+<style>
+
+div.scrollmenu {
+  background-color: #4e899c;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #95c8d8;
+}
+div.scrollmenu {
+  background-color: #4e899c;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #95c8d8;
+}
+
+</style>
