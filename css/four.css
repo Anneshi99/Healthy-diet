@@ -48,7 +48,7 @@ div {text-align: center;}
 <style>
 
 div.scrollmenu {
-  background-color: #4e899c;
+  background-color: #7ead51;
   overflow: auto;
   white-space: nowrap;
 }
@@ -62,10 +62,10 @@ div.scrollmenu a {
 }
 
 div.scrollmenu a:hover {
-  background-color: #95c8d8;
+  background-color: #ab71c7;
 }
 div.scrollmenu {
-  background-color: #4e899c;
+  background-color: #7ead51;
   overflow: auto;
   white-space: nowrap;
 }
@@ -79,7 +79,7 @@ div.scrollmenu a {
 }
 
 div.scrollmenu a:hover {
-  background-color: #95c8d8;
+  background-color: #ab71c7;
 }
 
 </style>
