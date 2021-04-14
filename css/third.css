@@ -1,12 +1,7 @@
+
 body {
   background: #cca9dd;
 }
-img {
-  display: block;
-
-  margin-left: auto;
-}
-
 
 .content {
   max-width: 500px;
@@ -21,7 +16,11 @@ img {
 }
 
 
+img {
+  display: block;
 
+  margin-left: auto;
+}
 
 
 
@@ -60,10 +59,12 @@ div.scrollmenu a {
   text-align: center;
   padding: 14px;
   text-decoration: none;
+  
 }
 
 div.scrollmenu a:hover {
   background-color: #cca9dd;
+  
 }
 div.scrollmenu {
   background-color: #9b6bb3;
@@ -78,9 +79,7 @@ div.scrollmenu a {
   text-align: center;
   padding: 14px;
   text-decoration: none;
-  
 }
-
 div.scrollmenu a:hover {
   background-color: #cca9dd;
 }
