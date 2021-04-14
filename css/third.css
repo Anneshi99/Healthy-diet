@@ -37,7 +37,9 @@ h2 {
 h1 {
   color: #9047b3;
 }
-
+h1 {text-align: center;}
+p {text-align: center;}
+h4 {text-align: center;}
 <style>
 
 div.scrollmenu {
@@ -61,6 +63,7 @@ div.scrollmenu {
   background-color: #9b6bb3;
   overflow: auto;
   white-space: nowrap;
+  text-align: center;
 }
 
 div.scrollmenu a {
@@ -69,6 +72,7 @@ div.scrollmenu a {
   text-align: center;
   padding: 14px;
   text-decoration: none;
+  
 }
 
 div.scrollmenu a:hover {
