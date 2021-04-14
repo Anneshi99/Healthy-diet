@@ -1,6 +1,12 @@
 body {
   background: #cca9dd;
 }
+img {
+  display: block;
+
+  margin-left: auto;
+}
+
 
 .content {
   max-width: 500px;
